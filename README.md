@@ -1,2 +1,1 @@
-# Azure-Infra-Management
-This is a Private repo to manage my infra of Azure automatically.
+# Learning k8s and practice in this repo
