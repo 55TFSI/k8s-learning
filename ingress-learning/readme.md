@@ -29,7 +29,7 @@ kubectl get pods --namespace=ingress-nginx
 
 Here, we completed our first step in the overview.
 ```shell
-ingress-nginx   ingress-nginx-controller             LoadBalancer   10.0.140.220   20.210.41.216   80:30939/TCP,443:30690/TCP   4m6s
+ingress-nginx   ingress-nginx-controller             LoadBalancer   10.0.140.220   <external IP>   80:30939/TCP,443:30690/TCP   4m6s
 ```
 We have an ingress-nginx-controller act as a load balancer.
 
