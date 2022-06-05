@@ -1,0 +1,2 @@
+kubectl create ingress demo --class=nginx \
+  --rule="www.demo.io/*=demo:80"
